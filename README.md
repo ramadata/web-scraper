@@ -13,8 +13,8 @@ These requirements may already be satified on your machine, but if not, open ter
 
 When importing packages beautiful soup should be imported as `from bs4 import BeautifulSoup`. The import statement may not be recognized. DON'T PANIC. Go into the settings of your text editor, click Settings (Preferences on a Mac) and go to Python Interpreter. There should be an option for beautifulsoup4 click that and press OK. If there is still some issue, install a virtual enviroment with `pip3 install virtualenv` and test the install `virtualenv --version`. Then create a virtual enviroment `virtualenv name_of_directory`.
 
-[!Settings](https://github.com/ryreadme/web-scraper/blob/master/Settings_Preferences.png)
-[!Python Interpreter](https://github.com/ryreadme/web-scraper/blob/master/Python_Interpreter.png)
+<img src='https://github.com/ryreadme/web-scraper/blob/master/Settings_Preferences.png' alt=''>
+<img src='https://github.com/ryreadme/web-scraper/blob/master/Python_Interpreter.png' alt=''>
 
 ## Technologies Used
 
@@ -26,4 +26,4 @@ Packages:
 3. Requests
 4. Beautiful Soup
 
-<https://github.com/ryreadme/web-scraper/blob/master/applications.csv>
+<img src='https://github.com/ryreadme/web-scraper/blob/master/applications.csv' alt=''>
