@@ -26,4 +26,4 @@ Packages:
 3. Requests
 4. Beautiful Soup
 
-<img src='https://github.com/ryreadme/web-scraper/blob/master/applications.csv' alt=''>
+<https://github.com/ryreadme/web-scraper/blob/master/applications.csv>
